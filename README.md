@@ -1,7 +1,7 @@
 # 427 UDP Flood Lab
 Use UDP.c for Linux, UDP_MacOS for Mac. (Windows untested).
 
-1) Fill in the 4 To-Do's in the file so it compiles and works properly. 
+1) Fill in the 5 To-Do's in the file so it compiles and works properly. 
 
 2) Launch an attack against victim's IP address
 
