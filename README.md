@@ -3,7 +3,7 @@ Use UDP.c for Linux, UDP_MacOS for Mac. (Windows untested).
 
 1) Fill in the 5 To-Do's in the file so it compiles and works properly. 
 
-2) Launch an attack against victim's IP address (e.g. install an Apache server or otherwise make sure the ports you target are open)
+2) Launch an attack against victim's IP address (as an example, port 80 is used by the Apache web server)
 
 3) Launch Wireshark on victim's computer to see the incoming UDP packets
 
