@@ -7,4 +7,4 @@ Use UDP.c for Linux, UDP_MacOS for Mac. (Windows untested).
 
 3) Launch Wireshark on victim's computer to see the incoming UDP packets
 
-4) Submit Wireshark screenshot and the UDP flood completed code.
+4) Submit Wireshark screenshot (including UDP target port) and the UDP flood completed code.
