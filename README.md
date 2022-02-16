@@ -8,3 +8,5 @@ Use UDP.c for Linux, UDP_MacOS for Mac. (Windows untested).
 3) Launch Wireshark on victim's computer to see the incoming UDP packets
 
 4) Submit Wireshark screenshot (including UDP target port) and the UDP flood completed code.
+
+Bonus: Spoof your IP packet so it appears to your victim that the packet comes from a different server (Hint: in setup_ip_header())
